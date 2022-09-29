@@ -1,0 +1,12 @@
+{
+  "name": "BabylonTesting",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ItsCryptic/BabylonTesting",
+  "author": "Kevin D <kevin.diangelis@gmail.com>",
+  "license": "GNU General Public License v2.0",
+  "dependencies": {
+    "babylonjs": "^5.26.1",
+    "path": "^0.12.7"
+  }
+}
